@@ -1,6 +1,4 @@
 # Phishing-Detection-Tool
-# Phishing Detection Tool
-
 Software Engineering Fundamentals project – Umm Al-Qura University, College of Computing (Group 20, Dr. Foziah Hasan Gazzawe).
 A web-based tool that checks whether a URL looks safe or suspicious using predefined rule-based checks.
 
